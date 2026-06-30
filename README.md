@@ -1,16 +1,25 @@
-## Hi there 👋
+<img width="1280" height="102" alt="IMG_3009" src="https://github.com/user-attachments/assets/8a0780f5-b306-43e7-830f-16a40b90ceef" />
 
-<!--
-**PH1GHT1NG/PH1GHT1NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+uh seconed account hello
 
-Here are some ideas to get you started:
+<img width="1280" height="102" alt="IMG_3010" src="https://github.com/user-attachments/assets/e007a6e0-63ef-4647-969c-243a107ea8d2" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fandoms:
+die of death
+forsaken 
+bfdi
+inanimate insanity
+pressure
+phighting
+tadc
+dandys world
+regretevator
+objectified 
+
+itft/ a bunch of other object shows
+
+<img width="1280" height="102" alt="IMG_3009" src="https://github.com/user-attachments/assets/682ede27-e49e-430d-97d7-17b76134d58a" />
+
+free toes :D
+
+<img width="1280" height="102" alt="IMG_3010" src="https://github.com/user-attachments/assets/25c18cea-1702-4330-822e-c97a14816bce" />
