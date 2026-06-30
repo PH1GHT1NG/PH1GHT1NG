@@ -1,27 +1,17 @@
-<img width="1280" height="102" alt="IMG_3009" src="https://github.com/user-attachments/assets/8a0780f5-b306-43e7-830f-16a40b90ceef" />
-
-uh seconed account hello
-
-<img width="1280" height="102" alt="IMG_3010" src="https://github.com/user-attachments/assets/e007a6e0-63ef-4647-969c-243a107ea8d2" />
-
-Fandoms:
-die of death
-forsaken 
-bfdi
-inanimate insanity
-pressure
-phighting
-tadc
-dandys world
-regretevator
-objectified 
-
-itft/ a bunch of other object shows
-
-<img width="1280" height="102" alt="IMG_3009" src="https://github.com/user-attachments/assets/682ede27-e49e-430d-97d7-17b76134d58a" />
-
-free toes :D
-
-<img width="1280" height="102" alt="IMG_3010" src="https://github.com/user-attachments/assets/25c18cea-1702-4330-822e-c97a14816bce" />
-
-<img width="540" height="470" alt="IMG_2479" src="https://github.com/user-attachments/assets/e3d6ada6-ab90-4ecc-a9b2-b62088445b59" />
+<p align="center">
+  <svg width="100%" height="40" xmlns="http://w3.org">
+    <defs>
+      <pattern id="scythePattern" width="40" height="40" patternUnits="userSpaceOnUse">
+        <!-- Teal Base -->
+        <rect width="40" height="40" fill="#2A7E78"/>
+        <!-- Gold and Cream Diamonds -->
+        <path d="M 20,0 L 40,20 L 20,40 L 0,20 Z" fill="#EADCA6"/>
+        <path d="M 0,0 L 10,10 L 0,20 Z" fill="#F4F1DE"/>
+        <path d="M 40,0 L 40,20 L 30,10 Z" fill="#F4F1DE"/>
+        <path d="M 0,40 L 10,30 L 0,20 Z" fill="#F4F1DE"/>
+        <path d="M 40,40 L 40,20 L 30,30 Z" fill="#F4F1DE"/>
+      </pattern>
+    </defs>
+    <rect width="100%" height="40" fill="url(#scythePattern)" />
+  </svg>
+</p>
